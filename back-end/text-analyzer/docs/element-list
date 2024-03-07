@@ -1,0 +1,5 @@
+com.example.textanalyzer
+com.example.textanalyzer.config
+com.example.textanalyzer.controllers
+com.example.textanalyzer.models
+com.example.textanalyzer.services

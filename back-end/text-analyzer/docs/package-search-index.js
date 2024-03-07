@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.textanalyzer"},{"l":"com.example.textanalyzer.config"},{"l":"com.example.textanalyzer.controllers"},{"l":"com.example.textanalyzer.models"},{"l":"com.example.textanalyzer.services"}];updateSearchResults();
